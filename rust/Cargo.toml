@@ -25,7 +25,7 @@ name = "synapse.synapse_rust"
 anyhow = "1.0.63"
 lazy_static = "1.4.0"
 log = "0.4.17"
-pyo3 = { version = "0.20.0", features = [
+pyo3 = { version = "0.20.3", features = [
     "macros",
     "anyhow",
     "abi3",
